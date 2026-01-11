@@ -1,0 +1,8 @@
+{
+  "name": "Nyxic",
+  "description": "A futuristic social media platform with AI-powered creative tools, featuring smart captions, image generation, and a sleek dark-mode aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
